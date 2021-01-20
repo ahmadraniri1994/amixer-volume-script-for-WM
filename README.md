@@ -5,4 +5,4 @@ Explanation :
 - volup = volume up (amixer -q sset Master 5%+)
 - voldown = volume down (amixer -q sset Master 5%-)
 
-PS: you can make it into executable with command "chmod +x <script>"
+PS: you can make it into executable with command "chmod +x <script>" and bind it with your desired shortcut tools (sxhkd, xbindkeys, etc).
